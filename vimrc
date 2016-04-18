@@ -158,9 +158,9 @@ nmap <Leader>f :NERDTreeToggle<CR>
 nmap <Leader>F :NERDTreeFind<CR>
 
 " snipMate
-let g:snip_author   = "Jeffy Du"
-let g:snip_mail     = "jeffy.du@163.com"
-let g:snip_company  = "SIC Microelectronics CO. Ltd"
+let g:snip_author   = "Richard Wang"
+let g:snip_mail     = "wangleihd@gmail.com"
+let g:snip_company  = "Cainiao edu"
 
 " man.vim - view man page in VIM
 source $VIMRUNTIME/ftplugin/man.vim
